@@ -42,7 +42,7 @@ Step 3: Write smart contract and deploy chaincode
     a. CreateAsset and ReadAsset methods have already been provided.
     b. UpdateAsset and DeleteAsset methods have been added along with an helper mehtod AssetExists.
 
-The smart contract can be found in `/workspaces/npci-blockchain-assignment-5-Akshith-Banda/fabric-samples/chaincode` dir
+The smart contract can be found in `/home/akshith.banda@npci.org.in/bootcamp/npci-blockchain-assignment-5-Akshith-Banda/fabric-samples/chaincode/asset-management/go` dir
 
    .. code-block:: bash
         cd test-network
